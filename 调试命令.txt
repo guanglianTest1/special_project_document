@@ -10,7 +10,7 @@ F6FD&data=0101537472696E6700000001&callback=1234&encodemethod=NONE&sign=AAA
 {"MsgType":16,"Sn":10}
 0x74控制开关---------------------------------------------------------------------------{"MsgType":116,"Sn":10,"SecurityNodeID":"00137A000001B3F4","Nwkaddr":"F6FD","SwitchNum":1,"SwitchStatus":1}
 0x70配置表-------------------------------------------------------------------------------
-{"MsgType":112,"Sn":10,"GlobalOpt":0,"NodeList":[{"SecurityNodeID":"00137A000001B3F4","Nwkaddr":"F6FD","SubNode":[{"Type":1,"SubType":1,"Num":1,"Info":"窗磁","OperatorType":1},{"Type":2,"SubType":3,"Num":2,"Info":"开关1","OperatorType":0}]},{"SecurityNodeID":"00137A000001B3F3","Nwkaddr":"F5FD","SubNode":[{"Type":1,"SubType":1,"Num":2,"Info":"门磁","OperatorType":1},{"Type":2,"SubType":3,"Num":3,"Info":"开关2","OperatorType":0}]}]}
+{"MsgType":112,"Sn":10,"GlobalOpt":0,"NodeList":[{"SecurityNodeID":"00137A000001B3F4","Nwkaddr":"F6FD","SubNode":[{"Type":1,"SubType":1,"Num":1,"Info":"窗磁","OperatorType":1},{"Type":2,"SubType":3,"Num":0,"Info":"开关1","OperatorType":1}]},{"SecurityNodeID":"00137A000001B3F3","Nwkaddr":"F5FD","SubNode":[{"Type":1,"SubType":1,"Num":2,"Info":"门磁","OperatorType":1},{"Type":2,"SubType":3,"Num":3,"Info":"开关2","OperatorType":0}]}]}
 0x71查询表-------------------------------------------------------------------------------
 {"MsgType":113,"Sn":10}
 0x77设置全局布防-------------------------------------------------------------------------
